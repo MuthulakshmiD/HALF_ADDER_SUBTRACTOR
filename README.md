@@ -78,4 +78,5 @@ endmodule
 ![{D05F9773-AC22-4D69-BE6F-0601D3F35FED}](https://github.com/user-attachments/assets/6f2fe1e4-8a1b-4eaf-bb04-0831388abd9a)
 
 **Result:**
+
  Thus the design of a half adder and half subtractor circuit and its truth table in Quartus using Verilog programming is successfully completed.
